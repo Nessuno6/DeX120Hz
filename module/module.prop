@@ -1,0 +1,7 @@
+id=dex_refresh120
+name=DeX 120 Hz
+version=v0.0
+versionCode=0
+author=deang
+description=Keeps the built-in screen at 120 Hz while DeX runs on an external monitor (DeX caps it at 60 Hz and hides Motion smoothness). Tap Action to turn on/off. In memory only: nothing on /system is written.
+updateJson=https://raw.githubusercontent.com/Nessuno6/DeX120Hz/main/update.json
